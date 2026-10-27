@@ -1,0 +1,12 @@
+# Compilación
+.build/
+.swiftpm/
+.DS_Store
+
+# Nunca subir grabaciones ni transcripciones
+*.m4a
+*.wav
+*.mp3
+*.blocks.txt
+*.blocks.json
+Grabaciones/
